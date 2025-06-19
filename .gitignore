@@ -43,5 +43,5 @@ yarn-error.log*
 next-env.d.ts
 
 # models
-**/models
+**/models/
 back-end/__pycache__/
