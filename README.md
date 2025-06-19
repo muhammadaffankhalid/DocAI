@@ -137,14 +137,6 @@ This project includes a `.gitignore` that prevents you from pushing:
 
 
 
-
-
-## 📄 License
-
-[MIT](LICENSE)
-
----
-
 ## 🧓‍♂️ Author
 
 Made with 💡 by **Muhammad Affan Khalid**
